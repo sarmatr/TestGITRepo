@@ -14,7 +14,7 @@ public class testClass {
 	 */
 	public static void main(String[] args) {
 		System.out.println("===>testClass : main :AAAAAA:");
-		System.out.println("===>testClass : main :BBBBBB2222333eeeee:");
+		System.out.println("===>testClass : main :BBBBBB2222333eeeeetttttt:");
 		System.out.println("===>testClass : main :BBBBBBRRRRRRR:");
 
 	}
