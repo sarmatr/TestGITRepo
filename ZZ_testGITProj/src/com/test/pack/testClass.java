@@ -18,6 +18,7 @@ public class testClass {
 		System.out.println("===>testClass : main :BBBBBBRRRRRRRYYYYYzzzzzz:");
 		System.out.println("===>testClass : main :$$$$$$$$$$$$$$$$$$$");
 		System.out.println("===>testClass : main :BBBBBBRRRRRRR:");
+		System.out.println("===>testClass : main :EEEEERRRRRRRRRRR:");
 	}
 
 }
